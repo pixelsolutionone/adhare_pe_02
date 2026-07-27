@@ -7,9 +7,9 @@
   "first_open_app": "/229445249,23359884464/highR_RS88_EMI2_572_APP_OPEN_17597_140726",
   "common_open_app": "1",
   "native_ad1": "/229445249,23359884464/highR_RS88_EMI2_572_NATIVE_17598_140726",
-  "native_ad2": "/229445249,23359884464/highR_RS88_EMI2_572_NATIVE_17598_140726",
+  "native_ad2": "ca-app-pub-2555538511396449/2264458414",
   "interstitial_ad1": "/229445249,23359884464/highR_RS88_EMI2_572_INTERSTITIAL_17599_140726",
-  "interstitial_ad2": "/229445249,23359884464/highR_RS88_EMI2_572_INTERSTITIAL_17599_140726",
+  "interstitial_ad2": "ca-app-pub-2555538511396449/3577540085",
   "dialog_show": "0",
   "affiliate_weburl1": "",
   "affiliate_weburl2": "",
@@ -19,8 +19,8 @@
     "",
     ""
   ],
-  "native_count": "2",
-  "inter_count": "2",
+  "native_count": "1",
+  "inter_count": "1",
   "calc_native_count": "1",
-  "calc_inter_count": "2"
+  "calc_inter_count": "1"
 }
